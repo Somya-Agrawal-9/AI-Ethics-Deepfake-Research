@@ -49,10 +49,18 @@ There is strong public demand for:
 - **Transparency and labelling** of AI-generated content  
 - **Ethical training and supervision** in AI development
 
----
-
 This study highlights the urgent need for **balanced policies and frameworks** to ensure the ethical use of AI while protecting society from the potential harms of deepfake technology.  
 
+---
+
 ## Repository Contents
-- `Findings/` → Report of research findings (PDF/Image format)  
-- `README.md` → Project overview (this file)  
+-  `README.md` → Project overview (this file)
+-  [Click here to view the research report]()
+
+---
+
+## Connect with Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/somya-agrawal-analyst/)  
+📧 somya.agrawal936@email.com
+
