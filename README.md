@@ -1,6 +1,6 @@
-# AI-Ethics-Deepfake-Research
-Title: “The Dark Side of Innovation: Exploring AI Ethics and The Rise of Deepfakes” 
+# Research Report: AI Ethics and Deepfake Technology
 
+Title: “The Dark Side of Innovation: Exploring AI Ethics and The Rise of Deepfakes” 
 Author: Somya Agrawal  
 Duration: June 2025 – July 20245 
 Institution: Gyan Ganga Institute of Technology and Sciences, Jabalpur (M.P.)    
@@ -8,8 +8,6 @@ Institution: Gyan Ganga Institute of Technology and Sciences, Jabalpur (M.P.)
 ## Overview
 This repository presents the findings of my research project on **AI Ethics and Deepfake Technology**.  
 The study was conducted using a structured **15-questionnaire survey** to understand public awareness, risks, and perceptions surrounding deepfake technology.  
-
----
 
 ## Objective
 The primary goal of this research was:
@@ -20,8 +18,6 @@ The primary goal of this research was:
 4. To explore the role of AI ethics in responsible content generation. 
 5. To evaluate current legal frameworks addressing deepfake misuse. 
 6. To suggest ethical guidelines and regulatory approaches for AI-generated media.
-
----
    
 ## Key Findings
 - **76%** of respondents are aware of the term *deepfake*.  
@@ -38,9 +34,7 @@ The primary goal of this research was:
 - **74%** support **mandatory ethical training** for AI developers.  
 - **84%** think AI can act ethically if supervised by humans.  
 - Only **2%** believe AI tools should be unrestricted.
-
----
-
+  
 ## Conclusion
 The findings indicate a **high level of public awareness** of deepfakes but also significant concerns around **misinformation, misuse, and lack of trust in digital media**.  
 There is strong public demand for:
@@ -51,13 +45,9 @@ There is strong public demand for:
 
 This study highlights the urgent need for **balanced policies and frameworks** to ensure the ethical use of AI while protecting society from the potential harms of deepfake technology.  
 
----
-
 ## Repository Contents
 -  `README.md` → Project overview (this file)
 -  [Click here to view the research report]()
-
----
 
 ## Connect with Me
 
