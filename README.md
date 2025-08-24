@@ -4,12 +4,15 @@ This repository presents the findings of my research project on **AI Ethics and 
 The study was conducted using a structured **15-questionnaire survey** to understand public awareness, risks, and perceptions surrounding deepfake technology.  
 
 ## Objective
-The primary goal of this research was to analyze:
-- Awareness levels about deepfakes
-- Perceived risks and misuse
-- Trust in media and AI
-- Public opinions on regulation, legal frameworks, and ethical considerations
+The primary goal of this research was:
 
+1. To assess public awareness and understanding of deepfake technology. 
+2. To identify the sectors most vulnerable to deepfake manipulations. 
+3. To analyse the ethical concerns surrounding the creation and distribution of deepfakes. 
+4. To explore the role of AI ethics in responsible content generation. 
+5. To evaluate current legal frameworks addressing deepfake misuse. 
+6. To suggest ethical guidelines and regulatory approaches for AI-generated media.
+   
 ## Key Findings
 - **76%** of respondents are aware of the term *deepfake*.  
 - **88%** have encountered a deepfake video or image at least once.  
